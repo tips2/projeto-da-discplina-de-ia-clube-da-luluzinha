@@ -1,0 +1,64 @@
+{
+    "target": [
+      {
+        "name": "Asma",
+        "rules": {
+            "1": "Respiracao Ofegante",                      
+            "2": "Falta de Ar",           
+            "3": "Peito Apertado",                  
+            "4": "Tosse",                      
+            "5": "Respiracao Rapida",                
+            "6": "Chiado ao respirar"                 
+        }
+      },
+      {
+        "name": "Bronquite",
+        "rules": {
+            "1": "Irritacao na garganta",                      
+            "2": "Falta de Ar",           
+            "3": "Chiado ao respirar",                  
+            "4": "Tosse",                      
+            "5": "Dores no peito" 
+        }
+      },
+      {
+        "name": "Sinusite",
+        "rules": {
+            "1": "Irritacao na garganta",                      
+            "2": "Obstrucao nasal",           
+            "3": "Dor de ouvido",                  
+            "4": "Tosse",                      
+            "5": "Diminuicao do olfato",
+            "6": "Pressao facial"
+        }
+      },
+      {
+        "name": "Rinite",
+        "rules": {
+            "1": "Irritacao na garganta",                      
+            "2": "Obstrucao nasal",           
+            "3": "Coriza",                  
+            "4": "Espirros"                     
+        }
+      },
+      {
+        "name": "Tuberculose",
+        "rules": {
+            "1": "Tosse",                      
+            "2": "Emagrecimento",           
+            "3": "Falta de apetite",                  
+            "4": "Febre"                     
+        }
+      },
+      {
+        "name": "Pneumonia",
+        "rules": {
+            "1": "Tosse",                      
+            "2": "Dores no peito",           
+            "3": "Falta de apetite",                  
+            "4": "Mal-estar",                      
+            "5": "Falta de Ar" 
+        }
+      }
+    ]
+}

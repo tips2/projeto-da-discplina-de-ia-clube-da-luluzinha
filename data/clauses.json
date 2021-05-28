@@ -1,0 +1,9 @@
+{
+    "1": {
+        "question": "Quais destes sintomas voce esta tendo?",
+        "answer": {
+            "positive": "Acredito que tenha sintomas de ",
+            "negative": "Nao tenho certeza, mas voce tem alguns sinais de "
+      }
+    }
+  }
