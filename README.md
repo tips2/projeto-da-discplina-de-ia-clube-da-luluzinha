@@ -16,11 +16,9 @@ Tecnologias Utilizadas:
 * Biblioteca de Ciência de Dados Pandas
 * Base de dados do Ministério da Saúde contendo os sintomas das doenças : 
   * Asma
-  * Hipertensão
-  * Depressão
-  * Diabetes Mellitus
-  * Dengue
-  * Leptospirose
-  * Ebola
-  * Covid-19
+  * Bronquite
+  * Pneumonia
+  * Rinite
+  * Sinusite
+  * Tuberculose
  
