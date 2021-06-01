@@ -17,11 +17,18 @@ class engine():
 
         if output[0]:
             self.clause = _c[0].getPositive() + output[1]
-            self.percent = output[2]
+            if output[2] > 100:
+                self.percent = 100.0
+            else: 
+                self.percent = output[2]
+            
             print("\n" + self.clause + " com uma chance de " + str(int(self.percent)) + "%.")
         else:
             self.clause = _c[0].getNegative() + output[1]
-            self.percent = output[2]
+            if output[2] > 100.0:
+                self.percent = 100.0
+            else: 
+                self.percent = output[2]
             print("\n" + self.clause + " com uma chance de " + str(int(self.percent)) + "%.")
 
         print("\nProcure a ajuda de um profissional da saúde para um diagnóstico mais preciso.")
