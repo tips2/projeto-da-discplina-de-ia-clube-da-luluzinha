@@ -13,7 +13,6 @@ Proposta: criar um sistema especialista inspirado do SE-Dinossauro adaptado para
 
 Tecnologias Utilizadas: 
 * Linguagem Python
-* Biblioteca de Ciência de Dados Pandas
 * Base de dados do Ministério da Saúde contendo os sintomas das doenças : 
   * Asma
   * Bronquite
